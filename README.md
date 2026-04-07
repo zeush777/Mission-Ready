@@ -59,6 +59,28 @@ A full-stack chatbot-style application designed to help users understand and cho
 > 🔒 Code partially restricted due to organisation ownership
 > 📄 Fully documented in this portfolio
 
+## 📸 Project Screenshots
+
+### 🧠 Turners Insurance Policy Advisor
+
+**Overview of the application and core stack**
+![Overview](docs/images/overview.png)
+
+---
+
+**Full system workflow (frontend → backend → recommendation engine → deployment)**
+![Architecture](docs/images/visual-diagram.png)
+
+---
+
+**Chatbot interaction and recommendation flow**
+![User Flow](docs/images/screen.png)
+
+---
+
+**Docker configuration and deployment setup**
+![Docker](docs/images/Docker-and-AI-statement.png)
+
 ---
 
 ### 🎤 Work Journey Showcase
