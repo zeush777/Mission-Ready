@@ -25,7 +25,7 @@ My development journey spans multiple stages of learning and real-world project 
 
 * 🎓 **NZQA Level 4 – Full-Stack Development (Foundations)**
 * 🚀 **Mission Ready Level 5 – Advanced Projects**
-* 🔜 **Level 6 – Upcoming**
+* 🎉 **Mission Ready Level 6 - Collaborated Work Experience with CAS (Johannes Dimyadi)**
 
 This portfolio reflects a progression from foundational projects to more complex full-stack systems.
 
